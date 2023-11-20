@@ -1,4 +1,4 @@
-# node-chat-app
+# chat-website
 A real time audio, video and text based chating application using Node.js and Socket.IO
 
 ## Demo
